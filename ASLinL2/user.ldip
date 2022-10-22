@@ -1,0 +1,12 @@
+dn: uid=ss0296,ou=People,dc=localdomain
+objectClass: top
+objectClass: inetorgperson
+objectClass: posixAccount
+cn: Cecile YVON
+sn: YVON
+givenname: Cecile
+userPassword: {SSHA}CuCNnOgj3sTiEezxsV0nSbDjt5li7b+l
+gidNumber: 100
+uidNumber: 30221
+homeDirectory: /home/ss0296
+loginShell: /bin/bash
